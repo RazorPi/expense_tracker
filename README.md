@@ -2,7 +2,7 @@
 Using LAMBDA functions to build an Expense Tracker. This is part of the Scientific Computing with Python by Free Code Camp
  ------
 **ABOUT:** Lambda functions give you a concise way to write small, throwaway functions in your code.
- This is a great article to help [understand LAMBDA functions] ([https://www.freecodecamp.org/news/python-lambda-function-explained/ ])
+ This is a great article to help understand [LAMBDA functions](https://www.freecodecamp.org/news/python-lambda-function-explained/ ) 
 
  _____
 
